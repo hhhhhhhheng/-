@@ -1,0 +1,663 @@
+维护者：escapetw@139.com
+版本号：1.0.3
+更新时间：2025-10-31
+
+// 海贼王角色名称翻译词条扩展版，包含简写和常见变体
+
+词条
+
+// 限制大小写 - 主要角色简写
+Monkey D. Luffy=蒙奇·D·路飞
+Luffy=路飞
+Roronoa Zoro=罗罗诺亚·索隆
+Zoro=索隆
+Zolo=索隆
+Nami=娜美
+Usopp=乌索普
+Sogeking=狙击王
+Sanji=山治
+Black Leg Sanji=黑足山治
+Tony Tony Chopper=托尼托尼·乔巴
+Chopper=乔巴
+Nico Robin=妮可·罗宾
+Robin=罗宾
+Franky=弗兰奇
+Cutty Flam=卡蒂·弗拉姆
+Brook=布鲁克
+Soul King=灵魂之王
+Jinbe=甚平
+Jimbei=甚平
+
+// 四皇及其船员简写
+Red Hair Shanks=红发香克斯
+Shanks=香克斯
+Ben Beckman=本·贝克曼
+Beckman=贝克曼
+Lucky Roux=拉基·路
+Roux=拉基
+Yasopp=耶稣布
+Rockstar=洛克之星
+Edward Newgate=爱德华·纽盖特
+Whitebeard=白胡子
+Newgate=纽盖特
+Marco=马尔科
+Phoenix Marco=不死鸟马尔科
+Jozu=乔兹
+Diamond Jozu=钻石乔兹
+Vista=比斯塔
+Flower Sword Vista=花剑比斯塔
+Thatch=萨奇
+Charlotte Linlin=夏洛特·玲玲
+Big Mom=大妈
+Linlin=玲玲
+Charlotte Katakuri=夏洛特·卡塔库栗
+Katakuri=卡塔库栗
+Charlotte Smoothie=夏洛特·斯慕吉
+Smoothie=斯慕吉
+Charlotte Cracker=夏洛特·克力架
+Cracker=克力架
+Charlotte Perospero=夏洛特·佩罗斯佩罗
+Perospero=佩罗斯
+Charlotte Oven=夏洛特·欧文
+Oven=欧文
+Charlotte Daifuku=夏洛特·大福
+Daifuku=大福
+Charlotte Compote=夏洛特·康珀特
+Compote=康珀特
+Charlotte Mont-d'Or=夏洛特·蒙多尔
+Mont-d'Or=蒙多尔
+Charlotte Opera=夏洛特·欧培拉
+Opera=欧培拉
+Charlotte Galette=夏洛特·嘉蕾特
+Galette=嘉蕾特
+Charlotte Poire=夏洛特·波斌
+Poire=波斌
+Charlotte Pudding=夏洛特·布琳
+Pudding=布琳
+Charlotte Flambe=夏洛特·芙兰佩
+Flambe=芙兰佩
+Kaido=凯多
+King=烬
+Queen=奎因
+Jack=杰克
+Jack the Drought=旱灾杰克
+Yamato=大和
+Ulti=乌尔缇
+Page One=佩吉万
+Black Maria=黑色玛利亚
+Who's Who=福兹·弗
+Sasaki=佐佐木
+X Drake=X·德雷克
+Drake=德雷克
+
+// 七武海简写
+Dracule Mihawk=乔拉可尔·米霍克
+Mihawk=米霍克
+Hawk Eyes Mihawk=鹰眼米霍克
+Boa Hancock=波雅·汉库克
+Hancock=汉库克
+Boa Sandersonia=波雅·桑达索尼亚
+Sandersonia=桑达
+Boa Marigold=波雅·玛丽哥鲁德
+Marigold=玛丽
+Buggy=巴基
+Buggy the Clown=小丑巴基
+Captain Buggy=巴基船长
+Crocodile=克洛克达尔
+Sir Crocodile=沙·克洛克达尔
+Donquixote Doflamingo=唐吉诃德·多弗朗明哥
+Doflamingo=明哥
+Joker=小丑
+Gecko Moria=月光·莫利亚
+Moria=莫利亚
+Bartholomew Kuma=巴索罗米·熊
+Kuma=熊
+Tyrant Kuma=暴君熊
+Trafalgar Law=特拉法尔加·罗
+Law=劳
+Water Law=劳
+Edward Weevil=爱德华·威布尔
+Weevil=威布尔
+Marshall D. Teach=马歇尔·D·蒂奇
+Blackbeard=黑胡子
+Teach=蒂奇
+
+// 海军简写
+Sakazuki=萨卡斯基
+Akainu=赤犬
+Kuzan=库赞
+Aokiji=青雉
+Borsalino=波鲁萨利诺
+Kizaru=黄猿
+Issho=一笑
+Fujitora=藤虎
+Aramaki=荒牧
+Ryokugyu=绿牛
+Sengoku=战国
+Fleet Admiral Sengoku=战国元帅
+Kong=空
+Monkey D. Garp=蒙奇·D·卡普
+Garp=卡普
+Garp the Fist=铁拳卡普
+Smoker=斯摩格
+White Chase Smoker=白猎人斯摩格
+Tashigi=达斯琪
+Hina=黑槛日奈
+Hina=日奈
+Coby=克比
+Helmeppo=赫鲁梅伯
+Sentry=贝鲁梅伯
+Vice Admiral Momonga=中将鼯鼠
+Momonga=鼯鼠
+Vice Admiral Onigumo=中将鬼蜘蛛
+Onigumo=鬼蜘蛛
+Vice Admiral Doberman=中将道伯曼
+Doberman=道伯曼
+Vice Admiral Tsuru=中将鹤
+Tsuru=鹤
+Commodore Brannew=布兰纽准将
+Brannew=布兰纽
+
+// 革命军简写
+Monkey D. Dragon=蒙奇·D·龙
+Dragon=龙
+Revolutionary Dragon=革命军龙
+Sabo=萨博
+Koala=克拉尔
+Bartholomew Kuma=巴索罗米·熊
+Emporio Ivankov=安布里奥·伊万科夫
+Ivankov=伊万
+Inazuma=伊娜祖玛
+Karasu=乌鸦
+Morley=莫里
+Belbet=贝洛·贝蒂
+Betty=贝蒂
+Lindbergh=林德伯格
+
+// 超新星简写
+Eustass Kid=尤斯塔斯·基德
+Kid=基德
+Killer=基拉
+Massacre Soldier Killer=杀戮武人基拉
+Basil Hawkins=巴兹尔·霍金斯
+Hawkins=霍金斯
+Scratchmen Apoo=斯库拉奇曼·阿普
+Apoo=阿普
+Capone Bege=卡彭·贝基
+Bege=贝基
+Gang Bege=匪帮贝基
+Jewelry Bonney=乔艾莉·波妮
+Bonney=波妮
+Urouge=乌尔基
+Mad Monk Urouge=怪僧乌尔基
+X Drake=X·德雷克
+Drake=德雷克
+Water Law=
+
+// 和之国简写
+Kozuki Oden=光月御田
+Oden=御田
+Kozuki Toki=光月时
+Toki=时
+Kozuki Momonosuke=光月桃之助
+Momonosuke=桃之助
+Kozuki Hiyori=光月日和
+Hiyori=日和
+Komurasaki=小紫
+Shogun Kurozumi Orochi=黑炭大蛇
+Orochi=大蛇
+Kurozumi Orochi=黑炭大蛇
+Shinobu=小忍
+Kinemon=锦卫门
+Denjiro=传次郎
+Kyoshiro=狂死郎
+Kawamatsu=河松
+Raizo=雷藏
+Kiku=菊之丞
+Ashura Doji=阿修罗童子
+Kawamatsu=河松
+Hyogoro=兵五郎
+Yasuie=康家
+Tonoyasu=户野康
+Tsurujo=鹤女
+Otsuru=阿鹤
+Tama=小玉
+Toko=户子
+Hitetsu=天狗山飞彻
+Tenguyama Hitetsu=天狗山飞彻
+
+// 鱼人岛简写
+King Neptune=尼普顿国王
+Neptune=尼普顿
+Otohime=乙姬王妃
+Fukaboshi=鲨星
+Ryuboshi=皇星
+Manboshi=翻车星
+Shirahoshi=白星
+Princess Shirahoshi=白星公主
+Hody Jones=霍迪·琼斯
+Hody=霍迪
+Vander Decken=范德·戴肯
+Decken=戴肯
+Zeo=泽奥
+Daruma=达摩
+Ikaros Much=伊卡洛斯·穆希
+Hyouzou=豹藏
+Wadatsumi=大入道
+Fisher Tiger=费舍尔·泰格
+Tiger=泰格
+Jinbe=甚平
+Aladdin=阿拉丁
+Keimi=凯米
+Pappug=帕帕古
+
+// 其他重要角色简写
+Portgas D. Ace=波特卡斯·D·艾斯
+Ace=艾斯
+Fire Fist Ace=火拳艾斯
+Sabo=萨博
+Marco=马尔科
+Jozu=乔兹
+Vista=比斯塔
+Rockstar=洛克之星
+Lucky Roux=拉基·路
+Yasopp=耶稣布
+Ben Beckman=本·贝克曼
+Kureha=古蕾娃
+Doctor Kureha=Dr.古蕾娃
+Hiluluk=希鲁鲁克
+Doctor Hiluluk=Dr.希鲁鲁克
+Kaya=可雅
+Merry=梅利
+Klahadore=克拉巴特尔
+Kuro=克洛
+Jango=杰克斯
+Fullbody=芬布迪
+Hina=日奈
+T-Bone=T骨
+Johnny=强尼
+Yosaku=约瑟夫
+Bellmere=贝尔梅尔
+Nojiko=诺琪高
+Genzo=健助
+Kohza=寇沙
+Pell=贝尔
+Chaka=加卡
+Igaram=伊卡莱姆
+Vivi=薇薇
+Nefertari Vivi=奈菲鲁塔丽·薇薇
+Karoo=卡鲁
+Wapol=瓦波尔
+Chess=切斯
+Kuromarimo=克罗马利蒙
+Dalton=多尔顿
+Kasha=卡沙
+Conis=柯妮丝
+Su=苏
+Pagaya=派葛亚
+McKinley=麦金利
+Aisa=爱莎
+Wyper=瓦夷帕
+Kamakiri=卡马奇利
+Braham=布拉哈姆
+Genbou=螳螂
+Raki=拉琪
+Nolan=诺兰度
+Calgara=卡尔加拉
+Mousse=穆斯
+Iceburg=艾斯巴古
+Paulie=包利
+Peepley Lulu=毕普利·露露
+Tilestone=戴鲁斯通
+Zambai=赞拜
+Nero=奈罗
+Rob Lucci=罗布·路奇
+Lucci=路奇
+Kaku=卡库
+Jabra=加布拉
+Blueno=布鲁诺
+Kumadori=偎取
+Fukuro=猫头鹰
+Kalifa=卡莉法
+Spandam=斯潘达姆
+Spandine=斯潘达因
+Tom=汤姆
+Kokoro=可可罗
+Chimney=奇姆尼
+Gonbe=昆贝
+Duval=迪巴鲁
+Mocha=莫查
+Vegapunk=贝加庞克
+Dr. Vegapunk=贝加庞克博士
+Caesar Clown=凯撒·库朗
+Caesar=凯撒
+Gastino=加斯帕迪
+Mona=莫奈
+Vergo=维尔戈
+Buffalo=巴法罗
+Baby 5=Baby-5
+Dellinger=德林杰
+Lao G=拉奥·G
+Machvise=马哈拜斯
+Gladius=古拉迪乌斯
+Jora=乔拉
+Senor Pink=塞尼奥尔·皮克
+Sugar=砂糖
+Trebol=特雷波尔
+Diamante=迪亚曼蒂
+Pica=皮卡
+Corazon=柯拉松
+Rosinante=罗西南迪
+Riku Doldo III=力库·多尔德3世
+Rebecca=蕾贝卡
+Viola=维奥拉
+Kyros=居鲁士
+Scarlet=斯卡莱特
+Rebecca=蕾贝卡
+Leo=雷欧
+Mansherry=曼雪莉
+Wicca=维卡
+Bian=比安
+Gancho=甘丘
+Haredas=哈雷达斯
+Bariete=巴里埃特
+Makarita=玛卡莉塔
+Morgans=摩根斯
+Stussy=斯图西
+Du Feld=杜·费尔德
+Gild Tesoro=吉尔德·泰佐洛
+Tesoro=泰佐洛
+Baccarat=芭卡拉
+Tanaka=田中先生
+Dice=戴斯
+Carmen=卡门
+Lilian=莉莉安
+
+// 新增简写和昵称
+Luffy=小路
+Zoro=索大
+Sanji=山治君
+Chopper=乔巴
+Robin=罗宾姐
+Nami=娜美桑
+Usopp=乌索普
+Franky=弗兰奇
+Brook=布鲁克
+Jinbe=甚平
+Shanks=红发
+Mihawk=鹰眼
+Buggy=小丑
+Crocodile=老沙
+Doflamingo=明哥
+Moria=月光
+Kuma=熊
+Law=劳
+Blackbeard=黑胡子
+Ace=艾斯
+Sabo=萨博
+Marco=小马哥
+Jozu=钻石
+Vista=花剑
+Katakuri=卡二
+Smoothie=斯慕吉
+Cracker=克力架
+Perospero=佩罗斯
+Oven=欧文
+Daifuku=大福
+Kaido=凯多
+King=烬
+Queen=奎因
+Jack=杰克
+Yamato=大和
+Ulti=乌尔缇
+Page One=佩吉万
+Oden=御田
+Momonosuke=桃子
+Hiyori=日和
+Orochi=大蛇
+Shinobu=小忍
+Kinemon=锦卫门
+Denjiro=传次郎
+Kawamatsu=河松
+Raizo=雷藏
+Kiku=小菊
+Neptune=尼普顿
+Shirahoshi=白星
+Hody=霍迪
+Decken=戴肯
+Tiger=泰格
+Aladdin=阿拉丁
+Keimi=凯米
+Akainu=赤犬
+Aokiji=青雉
+Kizaru=黄猿
+Fujitora=藤虎
+Ryokugyu=绿牛
+Sengoku=战国
+Garp=卡普
+Smoker=斯摩格
+Tashigi=达斯琪
+Coby=克比
+Helmeppo=赫鲁梅伯
+Dragon=龙
+Ivankov=伊万
+Inazuma=闪电
+Kid=基德
+Killer=基拉
+Hawkins=霍金斯
+Apoo=阿普
+Bege=贝基
+Bonney=波妮
+Urouge=乌尔基
+Drake=德雷克
+
+// 通用词条简写
+Mugiwara：草帽
+Straw Hat：草帽
+Straw Hat Crew：草帽团
+Red Hair Pirates：红发团
+Whitebeard Pirates：白团
+Blackbeard Pirates：黑团
+Big Mom Pirates：大妈团
+Beast Pirates：百兽团
+Heart Pirates：心脏团
+Kid Pirates：基德团
+Revolutionary Army：革命军
+Marine：海军
+World Government：世界政府
+Cipher Pol：CP
+Warlord：七武海
+Shichibukai：七武海
+Yonko：四皇
+Admiral：大将
+Fleet Admiral：元帅
+Vice Admiral：中将
+Captain：大佐
+Devil Fruit：恶魔果实
+Logia：自然系
+Zoan：动物系
+Paramecia：超人系
+Haki：霸气
+Haoshoku Haki：霸王色
+Busoshoku Haki：武装色
+Kenbunshoku Haki：见闻色
+Gear Second：二档
+Gear Third：三档
+Gear Fourth：四档
+Gear Fifth：五档
+Gomu Gomu no Mi：橡胶果实
+Hito Hito no Mi：人人果实
+Yami Yami no Mi：暗暗果实
+Gura Gura no Mi：震震果实
+Mera Mera no Mi：烧烧果实
+Ope Ope no Mi：手术果实
+Ito Ito no Mi：线线果实
+Suna Suna no Mi：沙沙果实
+Goro Goro no Mi：响雷果实
+Pika Pika no Mi：闪闪果实
+Hie Hie no Mi：冰冰果实
+Magu Magu no Mi：熔岩果实
+Three Sword Style：三刀流
+Santoryu：三刀流
+Asura：阿修罗
+Diable Jambe：恶魔风脚
+Black Leg Style：黑足
+Grand Line：伟大航路
+New World：新世界
+Calm Belt：无风带
+Red Line：红土大陆
+All Blue：蔚蓝海域
+Drum Island：磁鼓岛
+Alabasta：阿拉巴斯坦
+Water 7：水之都
+Enies Lobby：司法岛
+Impel Down：推进城
+Marineford：马林梵多
+Sabaody Archipelago：香波地
+Fishman Island：鱼人岛
+Punk Hazard：庞克哈萨德
+Dressrosa：德雷斯罗萨
+Zou：佐乌
+Whole Cake Island：蛋糕岛
+Wano Country：和之国
+Onigashima：鬼岛
+Skypiea：空岛
+Thriller Bark：恐怖船
+Amazon Lily：女儿岛
+Raftel：拉夫德鲁
+Laugh Tale：拉夫德鲁
+Poneglyph：历史正文
+Ancient Weapon：古代兵器
+Pluton：冥王
+Poseidon：波塞冬
+Uranus：天王
+Will of D：D之意志
+Roger Pirates：罗杰团
+Rocks Pirates：洛克斯团
+Germa 66：杰尔马
+Vinsmoke Family：文斯莫克
+Kozuki Family：光月家
+Minks：毛皮族
+Fishman：鱼人族
+Merfolk：人鱼族
+Giants：巨人族
+Tontatta：小人族
+Bounty：悬赏金
+Beli：贝里
+Den Den Mushi：电话虫
+Vivre Card：生命卡
+Log Pose：记录指针
+Eternal Pose：永久指针
+Seastone：海楼石
+Kairoseki：海楼石
+Going Merry：梅利号
+Thousand Sunny：桑尼号
+Oro Jackson：奥罗号
+Moby Dick：莫比号
+Red Force：红色号
+Polar Tang：极地号
+Klabautermann：船精灵
+
+// 招式简写
+Gomu Gomu no Pistol：橡胶手枪
+Gomu Gomu no Rocket：橡胶火箭
+Gomu Gomu no Gatling：橡胶机关枪
+Gomu Gomu no Bazooka：橡胶火箭炮
+Gomu Gomu no Elephant Gun：橡胶象枪
+Gomu Gomu no King Cobra：橡胶眼镜王蛇
+Red Hawk：火拳枪
+Red Roc：红雁
+Oni Giri：鬼斩
+Tatsumaki：龙卷风
+Sanzen Sekai：三千世界
+Shishi Sonson：狮子歌歌
+Diable Jambe：恶魔风脚
+Hissatsu：必杀
+Sky Walk：月步
+Soru：剃
+Geppo：月步
+Kami-e：纸绘
+Tekkai：铁块
+Shigan：指枪
+Rokuogan：六王枪
+Rankyaku：岚脚
+
+// 新增通用简写
+DF：恶魔果实
+DF能力：果实能力
+果实：恶魔果实
+能力者：果实能力者
+海贼：海盗
+海军：海军
+政府：世界政府
+CP：情报机关
+七武海：七武海
+四皇：四皇
+大将：大将
+中将：中将
+少将：少将
+霸气：霸气
+霸王色：霸王色
+武装色：武装色
+见闻色：见闻色
+二档：二档
+三档：三档
+四档：四档
+五档：五档
+橡胶：橡胶
+火焰：火焰
+冰冻：冰冻
+闪电：闪电
+沙子：沙子
+黑暗：黑暗
+震动：震动
+手术：手术
+线条：线条
+沙沙：沙沙
+响雷：响雷
+闪闪：闪闪
+冰冰：冰冰
+熔岩：熔岩
+三刀：三刀流
+黑足：黑足
+伟大航路：伟大航路
+新世界：新世界
+无风带：无风带
+红土大陆：红土大陆
+水之都：水之都
+司法岛：司法岛
+推进城：推进城
+马林梵多：马林梵多
+香波地：香波地
+鱼人岛：鱼人岛
+德岛：德岛
+佐乌：佐乌
+蛋糕岛：蛋糕岛
+和之国：和之国
+鬼岛：鬼岛
+空岛：空岛
+恐怖船：恐怖船
+女儿岛：女儿岛
+历史正文：历史正文
+古代兵器：古代兵器
+D之意志：D的意志
+罗杰团：罗杰海贼团
+洛克斯：洛克斯
+杰尔马：杰尔马
+文斯莫克：文斯莫克
+光月：光月
+毛皮族：毛皮族
+鱼人：鱼人
+人鱼：人鱼
+巨人：巨人
+小人族：小人族
+悬赏：悬赏金
+贝里：贝里
+电话虫：电话虫
+生命卡：生命卡
+记录指针：记录指针
+永久指针：永久指针
+海楼石：海楼石
+梅利号：黄金梅利号
+桑尼号：万里阳光号
+船精灵：船精灵
